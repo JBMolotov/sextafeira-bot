@@ -1,0 +1,9 @@
+Tutoriais:
+API do drive
+https://developers.google.com/drive/api/v2/about-sdk
+
+
+Para criar a imagem no docker
+> docker build -t sextafeira .
+Para executar
+> docker run --name sextafeira-bot -d sextafeira
